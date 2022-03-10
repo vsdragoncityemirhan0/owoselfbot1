@@ -1,0 +1,17 @@
+{
+  "name": "owo-self-bot",
+  "version": "1.0.0",
+  "description": "OwO Self XP Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sleax#0001",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "discord.js": "11.6.4",
+    "orio.db": "^3.0.1",
+    "pogger": "^0.0.8"
+  }
+}
